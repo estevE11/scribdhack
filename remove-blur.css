@@ -1,3 +1,4 @@
-body {
-    background-color: red !important;
+.text_layer, .ff0m, .a {
+    color: black !important;
+    text-shadow: none !important;
 }
