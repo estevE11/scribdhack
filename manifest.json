@@ -5,9 +5,13 @@
     "version": "1.0",
     "content_scripts": [
         {
+            "js": [
+                "enable-selection.js"
+            ],
             "css": [
                 "remove-blur.css",
-                "remove-promo.css"
+                "remove-promo.css",
+                "enable-selection.css"
             ],
             "matches": [
                 "https://www.scribd.com/document/*/*"
