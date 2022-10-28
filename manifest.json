@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "ScribdHack",
+    "description": "Blur remover for SCRIBD",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "css": [
+                "remove-blur.css",
+                "remove-promo.css"
+            ],
+            "matches": [
+                "https://www.scribd.com/document/*/*"
+            ]
+        }
+    ]
+}
