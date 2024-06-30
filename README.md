@@ -1,6 +1,6 @@
 <p align="center">
 
-# SCRIBDHack (May not work and not mantained any more)
+# SCRIBDHack (v1.1 edited)
 
 SCRIBDHack is a chrome extension for www.scribd.com to get free premium features
 
