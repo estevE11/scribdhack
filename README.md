@@ -5,6 +5,7 @@
 SCRIBDHack is a chrome extension for www.scribd.com to get free premium features
 
 Inspired by [StuHack](https://github.com/isanchop/stuhack) by [isanchop](https://github.com/isanchop)
+Taken from [estevE11]
 
 ## Features:
   
