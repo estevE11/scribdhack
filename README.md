@@ -1,3 +1,10 @@
+## ⚠️ Project discontinued
+
+It is **no longer maintained** and very likely **does not work anymore** due to changes on the Scribd website.  
+It was created purely for educational purposes and I do **not** recommend or support its use against any website’s Terms of Service.
+
+#
+
 <p align="center">
 
 # SCRIBDHack (v1.1 edited)
@@ -7,7 +14,6 @@ SCRIBDHack is a chrome extension for www.scribd.com to get free premium features
 **NOT MANTAINED ANYMORE**
 
 Inspired by [StuHack](https://github.com/isanchop/stuhack) by [isanchop](https://github.com/isanchop)
-Taken from [estevE11]
 
 ## Features:
   
